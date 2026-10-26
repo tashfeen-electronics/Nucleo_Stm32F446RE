@@ -1,4 +1,6 @@
 # Nucleo_Stm32F446RE
+<img width="1062" height="608" alt="image" src="https://github.com/user-attachments/assets/ec4bf7e5-97bc-44a6-a2cd-b73e8ab121c5" />
+
 # STM32F446RE Hardware & Firmware Module
 
 > A compact, high-performance development module built around the STMicroelectronics STM32F446RE ARM Cortex-M4 microcontroller.
